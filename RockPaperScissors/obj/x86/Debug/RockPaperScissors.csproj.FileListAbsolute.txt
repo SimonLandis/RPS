@@ -1,0 +1,13 @@
+/Users/sims/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.exe.config
+/Users/sims/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.exe
+/Users/sims/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.pdb
+/Users/sims/Projects/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/sims/Projects/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.exe
+/Users/sims/Projects/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.pdb
+/Users/sims/Desktop/github/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.exe.config
+/Users/sims/Desktop/github/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.exe
+/Users/sims/Desktop/github/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.pdb
+/Users/sims/Desktop/github/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.csprojResolveAssemblyReference.cache
+/Users/sims/Desktop/github/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/sims/Desktop/github/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.exe
+/Users/sims/Desktop/github/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.pdb
